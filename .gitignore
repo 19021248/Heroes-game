@@ -259,3 +259,11 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+#User add
+
+*.dll
+SDL2_image-2.0.5/
+SDL2_ttf-2.0.15/
+SDL2-2.0.12/
+02_getting_an_image_on_the_screen/
